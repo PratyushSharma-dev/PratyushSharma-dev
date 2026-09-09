@@ -1,100 +1,282 @@
-<h1 align="center">Hi 👋, I'm Pratyush Sharma</h1>
-<h3 align="center">A passionate developer , building Scalable Applications</h3>
+# Hey, I'm Pratyush Sharma
+
+### Building things, solving problems, and learning one system at a time.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pratyushsharma-dev&label=Profile%20views&color=0e75b6&style=flat" alt="pratyushsharma-dev" />
-  <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="twitter" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pratyushsharma-dev&theme=algolia&row=1&column=6&margin-w=15&margin-h=15" alt="pratyushsharma-dev trophies" />
+  <a href="https://github.com/pratyushsharma-dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pratyushsharma-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/sharmapratyush1">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:pratyushsharma.p2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
----
-
-### 🚀 About Me
-
-- 🔭 I'm currently working on **[Civic-Connect](https://github.com/pratyushsharma-dev)**
-- 🌱 I'm currently learning **Advanced Backend concepts**
-- 👯 I'm looking to collaborate on **Civic-Connect**
-- 💬 Ask me about **Development**
-- 📫 How to reach me: **pratyushsharma.p2@gmail.com**
-- ⚡ Fun fact: **I debug better with coffee ☕**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pratyushsharma-dev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
+</p>
 
 ---
 
-### 🌐 Connect with me
+## `> whoami`
 
-<p align="left">
-<a href="https://linkedin.com/in/pratyushsharma-dev" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+I'm a **Computer Science student and software developer from India** interested in building practical, scalable applications.
+
+My current focus is on **backend development, Java, Spring Boot, databases, REST APIs, and problem solving**, while continuing to strengthen my frontend skills.
+
+I enjoy understanding how things work behind the scenes — from an API request reaching a database to designing systems that can actually solve real-world problems.
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│  Pratyush Sharma                                        │
+│                                                          │
+│  Focus        → Backend & Software Development          │
+│  Core         → Java • Spring Boot • REST APIs          │
+│  Databases    → PostgreSQL • MySQL • MongoDB             │
+│  Frontend     → React • JavaScript • HTML • CSS          │
+│  Problem Solving → DSA • LeetCode                        │
+│  Currently   → Building + Learning + Shipping            │
+└──────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `> currently_building`
+
+### CivicConnect
+
+**AI-Powered Citizen Problem Reporting Platform**
+
+A project idea focused on making it easier for citizens to report local problems and for authorities to manage, prioritize, and track those complaints.
+
+**Planned direction:**
+
+* Citizen problem reporting
+* Image-based issue identification
+* Location-based complaints
+* Complaint tracking
+* Admin dashboard
+* AI-assisted categorization
+* Backend APIs
+* Database-driven architecture
+
+> Turning a real-world problem into a software engineering problem.
+
+**Repository:**
+[![CivicConnect](https://img.shields.io/badge/CivicConnect-View%20Repository-181717?style=for-the-badge\&logo=github)](https://github.com/pratyushsharma-dev/Civic-Connect)
+
+---
+
+## `> tech_stack`
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate" height="45"/>
+</p>
+
+**Java · Spring Boot · Spring MVC · REST APIs · JPA/Hibernate · Maven**
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" height="45"/>
+</p>
+
+**PostgreSQL · MySQL · MongoDB · Redis**
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="45"/>
+</p>
+
+**HTML · CSS · JavaScript · React · Tailwind CSS**
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,js" height="45"/>
+</p>
+
+**Java · Python · JavaScript · C**
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode,idea" height="45"/>
+</p>
+
+**Git · GitHub · Docker · Postman · Linux · VS Code · IntelliJ IDEA**
+
+---
+
+## `> what_i_am_learning`
+
+```text
+Java
+ ├── OOP
+ ├── Collections
+ ├── Exception Handling
+ ├── Streams & Lambda
+ └── Advanced Java
+
+Spring Boot
+ ├── REST APIs
+ ├── Spring MVC
+ ├── Spring Data JPA
+ ├── Hibernate
+ ├── Authentication & Authorization
+ └── Production-ready APIs
+
+Computer Science
+ ├── Data Structures & Algorithms
+ ├── DBMS
+ ├── Operating Systems
+ ├── Computer Networks
+ └── System Design fundamentals
+```
+
+---
+
+## `> featured_projects`
+
+### CivicConnect
+
+**AI-powered citizen problem reporting platform**
+
+`Java` `Spring Boot` `REST API` `PostgreSQL` `React` `AI`
+
+[View Project →](https://github.com/pratyushsharma-dev/Civic-Connect)
+
+---
+
+### Real-Time Fitness Tracker
+
+A full-stack fitness tracking application focused on recording and managing fitness-related data.
+
+`React` `Node.js` `Express` `MongoDB`
+
+---
+
+### Plant Disease Recognition System
+
+A machine-learning based application designed to identify plant diseases from uploaded leaf images.
+
+`Python` `Flask` `TensorFlow` `Keras`
+
+---
+
+## `> problem_solving`
+
+<p align="center">
+
+<a href="https://leetcode.com/sharmapratyush1">
+  <img src="https://img.shields.io/badge/LeetCode-SharmaPratyush1-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-<a href="https://www.leetcode.com/sharmapratyush1" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+
+</p>
+
+I regularly practice **Data Structures & Algorithms** with a focus on:
+
+`Arrays` · `Strings` · `HashMap` · `Two Pointers` · `Sliding Window` · `Linked Lists` · `Binary Search`
+
+---
+
+## `> github_activity`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pratyushsharma-dev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyushsharma-dev&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pratyushsharma-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## `> contribution_graph`
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyushsharma-dev&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
+</p>
+
+---
+
+## `> github_stats`
+
+<p align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/pratyushsharma-dev?label=Followers\&style=flat-square)
+
+![GitHub stars](https://img.shields.io/github/stars/pratyushsharma-dev?affiliations=OWNER\&style=flat-square)
+
+![GitHub repos](https://img.shields.io/badge/Public%20Repositories-View%20All-181717?style=flat-square\&logo=github)
+
+</p>
+
+---
+
+## `> connect`
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/pratyushsharma-dev">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="mailto:pratyushsharma.p2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/sharmapratyush1">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/pratyushsharma-dev">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+## `> a_little_more_about_me`
 
-<p align="left">
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
-</p>
+```java
+public class Pratyush {
 
----
+    String role = "Software Developer";
+    String primaryLanguage = "Java";
 
-### 📊 GitHub Analytics
+    String[] interests = {
+        "Backend Development",
+        "Problem Solving",
+        "System Design",
+        "Web Development",
+        "AI-powered Applications"
+    };
 
-<p align="center">
-  <img height="180em" src="https://githubreadmestatsfast.vercel.app/api?username=pratyushsharma-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="pratyushsharma-dev stats"/>
-  <img height="180em" src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=pratyushsharma-dev&layout=compact&theme=radical&langs_count=8" alt="top languages"/>
-</p>
+    String currentlyLearning =
+        "Building production-ready backend applications";
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratyushsharma-dev&theme=radical" alt="streak stats"/>
-</p>
-
-<p align="center">
-  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=pratyushsharma-dev&theme=react-dark" alt="contribution activity graph"/>
-</p>
-
----
-
-### 🏆 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/pratyushsharma-dev/Civic-Connect">
-    <img align="center" src="https://githubreadmestatsfast.vercel.app/api/pin/?username=pratyushsharma-dev&repo=Civic-Connect&theme=radical" alt="Civic-Connect"/>
-  </a>
-</p>
+    String philosophy =
+        "Learn → Build → Break → Debug → Repeat";
+}
+```
 
 ---
 
 <p align="center">
-  <i>Thanks for stopping by! Feel free to explore my repositories and connect with me. ⭐</i>
+  <b>Building today. Learning every day. Improving one commit at a time.</b>
+</p>
+
+<p align="center">
+  <sub>Thanks for visiting my profile.</sub>
 </p>
