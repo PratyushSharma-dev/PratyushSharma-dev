@@ -272,6 +272,9 @@ Linux
   <img src="https://streak-stats.demolab.com?user=pratyushsharma-dev&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 </p>
 
+<p align="center">
+  <img src="./profile-cards/activity-graph.svg" alt="Contribution Activity Graph"/>
+</p>
 ---
 
 <!-- ===================== PROFILE ===================== -->
