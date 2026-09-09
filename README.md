@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratyush Sharma</h1>
-<h3 align="center">A passionate full-stack developer from India, building Civic-Connect 🚀</h3>
+<h3 align="center">A passionate developer ,  🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pratyushsharma-dev&label=Profile%20views&color=0e75b6&style=flat" alt="pratyushsharma-dev" />
@@ -80,10 +80,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyushsharma-dev&theme=react-dark" alt="contribution activity graph"/>
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=pratyushsharma-dev&theme=react-dark" alt="contribution activity graph"/>
 </p>
 
-> 💡 **Note:** The stats cards above are powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats), and [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph). If any card shows an error, it's usually a temporary rate-limit on the free hosted API — refreshing the page or deploying your own instance (linked above) fixes it permanently.
+> 💡 **Note:** The stats cards above are powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats), and [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph). The official `github-readme-activity-graph.vercel.app` host is frequently down for everyone (a known, ongoing issue), so the graph above uses a community-run fallback instance (`fabianocouto-activity-graph.vercel.app`) instead. If it ever breaks again, the most permanent fix is deploying your own free instance on Vercel — instructions [here](https://github.com/Ashutosh00710/github-readme-activity-graph#deploy-on-your-own-vercel-instance) — then swapping the domain in the image URL for your own.
 
 ---
 
