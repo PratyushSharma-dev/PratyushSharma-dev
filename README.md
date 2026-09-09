@@ -249,11 +249,11 @@ Linux
 
 <p align="center">
 
-`Arrays`   `Strings`   `HashMap`   `Two Pointers`   `Sliding Window`
+`Arrays`   `Strings`   `HashMap`   `Two Pointers`   `Sliding Window`
 
 <br>
 
-`Linked Lists`   `Binary Search`   `Recursion`   `Sorting`
+`Linked Lists`   `Binary Search`   `Recursion`   `Sorting`
 
 </p>
 
@@ -264,12 +264,16 @@ Linux
 <h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratyushsharma-dev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyushsharma-dev&layout=compact&hide_border=true&langs_count=8&theme=github_dark" height="180" alt="Top Languages"/>
+  <img src="https://githubreadmestatsfast.vercel.app/api?username=pratyushsharma-dev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark" height="180" alt="GitHub Stats"/>
+  <img src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=pratyushsharma-dev&layout=compact&hide_border=true&langs_count=8&theme=github_dark" height="180" alt="Top Languages"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pratyushsharma-dev&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=pratyushsharma-dev&theme=github-compact&hide_border=true" alt="Contribution Activity Graph"/>
 </p>
 
 ---
