@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratyush Sharma</h1>
-<h3 align="center">A passionate developer ,  🚀</h3>
+<h3 align="center">A passionate developer , building Scalable Applications</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pratyushsharma-dev&label=Profile%20views&color=0e75b6&style=flat" alt="pratyushsharma-dev" />
@@ -71,8 +71,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratyushsharma-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="pratyushsharma-dev stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyushsharma-dev&layout=compact&theme=radical&langs_count=8" alt="top languages"/>
+  <img height="180em" src="https://githubreadmestatsfast.vercel.app/api?username=pratyushsharma-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="pratyushsharma-dev stats"/>
+  <img height="180em" src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=pratyushsharma-dev&layout=compact&theme=radical&langs_count=8" alt="top languages"/>
 </p>
 
 <p align="center">
@@ -83,26 +83,15 @@
   <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=pratyushsharma-dev&theme=react-dark" alt="contribution activity graph"/>
 </p>
 
-> 💡 **Note:** The stats cards above are powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats), and [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph). The official `github-readme-activity-graph.vercel.app` host is frequently down for everyone (a known, ongoing issue), so the graph above uses a community-run fallback instance (`fabianocouto-activity-graph.vercel.app`) instead. If it ever breaks again, the most permanent fix is deploying your own free instance on Vercel — instructions [here](https://github.com/Ashutosh00710/github-readme-activity-graph#deploy-on-your-own-vercel-instance) — then swapping the domain in the image URL for your own.
-
 ---
 
 ### 🏆 Featured Projects
 
 <p align="center">
   <a href="https://github.com/pratyushsharma-dev/Civic-Connect">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratyushsharma-dev&repo=Civic-Connect&theme=radical" alt="Civic-Connect"/>
+    <img align="center" src="https://githubreadmestatsfast.vercel.app/api/pin/?username=pratyushsharma-dev&repo=Civic-Connect&theme=radical" alt="Civic-Connect"/>
   </a>
 </p>
-
-<!--
-  Add more pinned project cards here by copying the block below and
-  changing the "repo" value to your other repository names, e.g.:
-
-  <a href="https://github.com/pratyushsharma-dev/REPO_NAME">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratyushsharma-dev&repo=REPO_NAME&theme=radical" alt="REPO_NAME"/>
-  </a>
--->
 
 ---
 
