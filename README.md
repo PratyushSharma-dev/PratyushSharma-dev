@@ -93,25 +93,25 @@ I enjoy understanding how applications work behind the scenes — from APIs and 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│   JAVA                                                       │
+│   JAVA                                                      │
 │   ├── OOP                                                   │
 │   ├── Collections                                           │
 │   ├── Exception Handling                                    │
 │   └── Streams & Lambda                                      │
 │                                                             │
-│   SPRING BOOT                                                │
+│   SPRING BOOT                                               │
 │   ├── REST APIs                                             │
-│   ├── Spring MVC                                             │
-│   ├── Spring Data JPA                                        │
-│   ├── Hibernate                                              │
-│   └── Application Architecture                               │
+│   ├── Spring MVC                                            │
+│   ├── Spring Data JPA                                       │
+│   ├── Hibernate                                             │
+│   └── Application Architecture                              │
 │                                                             │
-│   COMPUTER SCIENCE                                           │
-│   ├── Data Structures & Algorithms                           │
-│   ├── DBMS                                                   │
-│   ├── Operating Systems                                      │
-│   ├── Computer Networks                                      │
-│   └── System Design Fundamentals                             │
+│   COMPUTER SCIENCE                                          │
+│   ├── Data Structures & Algorithms                          │
+│   ├── DBMS                                                  │
+│   ├── Operating Systems                                     │
+│   ├── Computer Networks                                     │
+│   └── System Design Fundamentals                            │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
